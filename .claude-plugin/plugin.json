@@ -1,0 +1,30 @@
+{
+  "name": "makebox-listing-seo",
+  "displayName": "SEO Etsy by MakeBox AI",
+  "version": "0.1.0",
+  "description": "Etsy SEO for your own shop in Claude: rewrite Etsy listing titles, 13 tags and descriptions from your real product facts, check them against Etsy's limits, and create new Etsy listings. You approve every change before it reaches Etsy.",
+  "author": {
+    "name": "MakeBox AI",
+    "email": "sales@makebox.ai",
+    "url": "https://app.makebox.ai/seo"
+  },
+  "homepage": "https://app.makebox.ai/seo",
+  "license": "LicenseRef-MakeBox-Proprietary",
+  "privacyPolicyUrl": "https://app.makebox.ai/seo/privacy",
+  "keywords": [
+    "etsy",
+    "etsy seo",
+    "etsy listing",
+    "etsy tags",
+    "etsy title",
+    "etsy description",
+    "etsy shop",
+    "etsy seller",
+    "etsy seller tools",
+    "listing optimization",
+    "listing seo",
+    "product listing",
+    "ai listing assistant",
+    "makebox"
+  ]
+}

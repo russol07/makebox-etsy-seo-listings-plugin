@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "makebox-listing-seo": {
+      "type": "http",
+      "url": "https://app.makebox.ai/seo/mcp"
+    }
+  }
+}
